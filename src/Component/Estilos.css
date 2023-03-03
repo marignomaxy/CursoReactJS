@@ -1,0 +1,95 @@
+.navbar .navbar-brand{
+    padding: 0% !important;
+    margin: 0% !important;
+}
+
+
+.botones{
+    background-color: #B7D9DB !important;
+}
+
+.navbar{
+    padding: 0% !important;
+}
+
+.nav{
+    font-size: x-large;
+    margin-right: auto !important;
+}
+
+.contenedor{
+    background-color: #B7D9DB !important;
+    display: inline-flex;
+    width: 100%;
+    align-items: center;
+}
+
+.buscador{
+    width: 530px;
+    margin-left: 10px;
+}
+
+.usuario{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: left;
+    margin-right: 105px;
+}
+
+.App{
+    background-color: #E8E8E8;
+}
+
+.paginacion{
+    margin-left: 28%;
+}
+
+.footer{
+    background-color: #B7D9DB !important;
+    display:block;
+    width: 100%;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.btn-primary{
+    background-color: #8f0101 !important;
+    border-radius: 38px !important;
+}
+
+.card{
+    border-radius: 35px !important;
+    text-align: center;
+    width:300px !important;
+    margin-bottom: 10px !important;
+}
+
+.navbar a{
+    color:black
+}
+
+.navbar a:hover{
+    color:white
+}
+.navbar a:focus{
+    text-decoration: revert;
+    color: black;
+}
+
+.active>.page-link{
+    background-color:#8f0101 !important;
+    border-color: #8f0101 !important;
+}
+
+.botonStyle{
+    max-height:40px;
+    background-color:#8f0101 !important;
+    border-color: #8f0101 !important;
+}
+
+.navbar .navdropdown{
+    margin-left: 10px;
+}
+
+
